@@ -1,7 +1,7 @@
 # captcha
 Breaking captchas using torch
 
-github.com/skumailraza/captcha
+
 
 1. Run captcha.lua to run CNN without RNN
       SimpleCaptcha accuracy - 92%
